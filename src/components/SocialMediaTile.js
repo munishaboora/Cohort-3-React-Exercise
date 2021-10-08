@@ -1,6 +1,7 @@
 import { AiFillGithub } from 'react-icons/ai';
 import { AiFillInstagram } from 'react-icons/ai';
 import { BiGlobe } from 'react-icons/bi';
+import './SocialMediaTile.css';
 
 function SocialMediaTile (props) {
     return (
